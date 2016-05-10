@@ -1,0 +1,41 @@
+.comments {clear: both;margin-top: 10px;margin-bottom: 0px;line-height: 1em;}
+.comments .comments-content {font-size: 13px;margin-bottom: 16px;padding-left: 7px;padding-right: 7px;}
+.comments .comment .comment-actions a {float:left;display: inline-block;margin: -2px 0 0 5px;padding: 1px 6px;border-right: 1px solid #C4C4C4;border-top-color: #E4E4E4;border-left-color: #E4E4E4;color: #424242 !important;text-align: center;text-shadow: 0 -1px 0 white;text-decoration: none;-webkit-border-radius: 2px;-moz-border-radius: 2px;border-radius: 2px;background: #EDEDED;background: -webkit-gradient( linear, left top, left bottom, color-stop(.2, white), color-stop(1, #E5E5E5) );background: -moz-linear-gradient( center top, white 20%, #E5E5E5 100% );font: 11px/18px sans-serif;-webkit-border-top-left-radius: 15px;-webkit-border-top-right-radius: 15px;-moz-border-radius-topleft: 15px;-moz-border-radius-topright: 15px;border-top-left-radius: 5px;border-top-right-radius: 5px;behavior: url(http://fetchak.com/ie-css3/ie-css3.htc);}       
+.comments .comment .comment-actions a:hover {text-decoration: none !important;background: #ccc;background: -webkit-gradient(linear,left top,left bottom,color-stop(.2, #eeeeee),color-stop(1, #cccccc));background: -moz-linear-gradient(center top,#eeeeee 20%,#cccccc 100%);text-decoration: underline;-webkit-border-top-left-radius: 15px;-webkit-border-top-right-radius: 15px;-moz-border-radius-topleft: 15px;-moz-border-radius-topright: 15px;border-top-left-radius: 5px;border-top-right-radius: 5px;}       
+.comments .comments-content .comment-thread ol {list-style-type: none;padding: 0;text-align: left;}       
+.comments .comments-content .inline-thread {padding: 0.5em 1em;}       
+.comments .comments-content .comment-thread {margin: 8px 0px;}       
+.comments .comments-content .comment-thread:empty {display: none;}       
+.comments .comments-content .comment-replies {margin-top: 1em;margin-left: 36px;}       
+.comments .comments-content .comment {margin-bottom:16px;padding-bottom:8px;}       
+.comments .comments-content .comment:first-child {padding-top:16px;}       
+.comments .comments-content .comment:last-child {border-bottom:1px dashed #ccc;padding-bottom:0;}       
+.comments .comments-content .comment-body {position:relative;}       
+.comments .comments-content .user {font-size: 14px;color: #666666 !important;text-decoration:none;}
+.comments .comments-content .icon.blog-author {background-repeat: no-repeat;background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9sLFwMeCjjhcOMAAAD+SURBVDjLtZSvTgNBEIe/WRRnm3U8RC1neQdsm1zSBIU9VVF1FkUguQQsD9ITmD7ECZIJSE4OZo9stoVjC/zc7ky+zH9hXwVwDpTAWWLrgS3QAe8AZgaAJI5zYAmc8r0G4AHYHQKVwII8PZrZFsBFkeRCABYiMh9BRUhnSkPTNCtVXYXURi1FpBDgArj8QU1eVXUzfnjv7yP7kwu1mYrkWlU33vs1QNu2qU8pwN0UpKoqokjWwCztrMuBhEhmh8bD5UDqur75asbcX0BGUB9/HAMB+r32hznJgXy2v0sGLBcyAJ1EK3LFcbo1s91JeLwAbwGYu7TP/3ZGfnXYPgAVNngtqatUNgAAAABJRU5ErkJggg==);}       
+.comments .comments-content .datetime {font-size: 10px;color: #999;text-decoration:none;}       
+.comments .comments-content .datetime a {float:right;}
+.comments .comments-content .comment-header {margin:0 0 8px;border: thin solid #E6E6E6;background-color: #dff0fa;padding: 5px;}       
+.comments .comments-content .comment-content {margin:0 0 10px;padding: 5px;border: thin solid #E6E6E6;background-color: #F4F4F4;line-height: 21px;}       
+.comments .comments-content .comment-content {text-align:justify;}       
+.comments .comments-content .owner-actions {position:absolute;right:0;top:0;}       
+.comments .comments-replybox {border: none;height: 250px;width: 100%;}       
+.comments .comment-replybox-single {margin-top: 5px;margin-left: 48px;width: 534px;}       
+.comments .comment-replybox-thread {margin-top: 5px;width: 101.5%;}       
+.comments .comments-content .loadmore a {display: block;padding: 10px 16px;text-align: center;}       
+.comments .thread-toggle {cursor: pointer;display: inline-block;}       
+.comments .continue {cursor: pointer;border: 1px solid #C4C4C4;border-top-color: #E4E4E4;border-left-color: #E4E4E4;color: #424242 !important;text-align: center;text-shadow: 0 -1px 0 white;text-decoration: none;-webkit-border-radius: 2px;-moz-border-radius: 2px;border-radius: 2px;background: #EDEDED;background: -webkit-gradient( linear, left top, left bottom, color-stop(.2, white), color-stop(1, #E5E5E5) );background: -moz-linear-gradient( center top, white 20%, #E5E5E5 100% );font: 11px/18px sans-serif;behavior: url(http://fetchak.com/ie-css3/ie-css3.htc);}       
+.comments .continue a {display: block;padding: 0.5em;font-weight: bold;}       
+.comments .continue a:hover {text-decoration: none !important;background: #ccc;background: -webkit-gradient(linear,left top,left bottom,color-stop(.2, #eeeeee),color-stop(1, #cccccc));background: -moz-linear-gradient(center top,#eeeeee 20%,#cccccc 100%);}
+.comments .comments-content .loadmore {cursor: pointer;max-height: 3em;margin-top: 3em;}       
+.comments .comments-content .loadmore.loaded {max-height: 0px;opacity: 0;overflow: hidden;}       
+.comments .thread-chrome.thread-collapsed {display: none;}       
+.comments .thread-toggle {display: inline-block;}       
+.comments .thread-toggle .thread-arrow {display: inline-block;height: 6px;width: 7px;overflow: visible;margin: 0.3em;padding-right: 4px;}       
+.comments .thread-expanded .thread-arrow {background: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAA DEUlfTAAAAG0lEQVR42mNgwAfKy8v/48I4FeA0AacVDFQBAP9wJkE/KhUMAAAAAElFTkSuQmCC&quot;) no-repeat scroll 0 0 transparent;}       
+.comments .thread-collapsed .thread-arrow {background: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAA DEUlfTAAAAJUlEQVR42mNgAILy8vL/DLgASBKnApgkVgXIkhgKiNKJ005s4gDLbCZBiSxfygAAAABJRU5ErkJggg==&quot;) no-repeat scroll 0 0 transparent;}       
+.comments .avatar-image-container {float: left;width: 36px;max-height: 36px;overflow: hidden;border: 1px solid #DDD;padding:2px;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;behavior: url(http://fetchak.com/ie-css3/ie-css3.htc);}
+.comments .avatar-image-container img {width: 36px;}       
+.comments .comment-block {margin-left: 48px;position: relative;padding: 10px 10px 0px 10px;background: #fcfcfc;border: 1px solid #E4E4E4;overflow: hidden;-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;behavior: url(http://fetchak.com/ie-css3/ie-css3.htc);}
+/* Responsive styles. */      
+@media screen and (max-device-width: 480px) {.comments .comments-content .comment-replies {margin-left: 0;}}
